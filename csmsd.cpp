@@ -1,10 +1,8 @@
 #include <iostream>
 #include <string>
-#include <bitset>
 #include <iomanip>
 #include <sstream>
 #include <vector>
-#include <fstream>
 #include <algorithm>
 #include "ucs2.cpp"
 #include "com.cpp"
