@@ -10,10 +10,7 @@
 #include "com.cpp"
 #include "pdu_phone.cpp"
 
-
-void send_2_com(std::vector<std::string> atv, std::string com);
 void sms(std::string msg, std::string phone, std::string port, std::string flash);
-
 
 void sms(std::string msg, std::string phone, std::string port, std::string flash)
 {
